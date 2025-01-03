@@ -1,6 +1,7 @@
 # Human-kinetic-detection
 
-This repository contains a Streamlit application which is used for the research journal "Photo-Assisted Piezoelectric Energy Harvesters and Sensors Using PVDF Matrix stabilized α-FAPbI3 perovskite with AI/ML human kinematic detection"
+This repository contains a Streamlit application developed for the research journal **"Photo-Assisted Piezoelectric Energy Harvesters and Sensors Using PVDF Matrix Stabilized α-FAPbI3 Perovskite with AI/ML Human Kinematic Detection."**
+
 
 ![Interface](https://drive.google.com/uc?id=1HJiFmMsGZr7TtPX51Sv6PVt9lkyqwUgs "Screenshot of the app")
 ![Interface](https://drive.google.com/uc?id=1AUxBsD87vtTT_tTnVT_OPZXtZbRULGEo "Screenshot of the app")
