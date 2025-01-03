@@ -21,7 +21,7 @@ Ensure you have the following installed on your system:
 
 2. Navigate to the `app` directory:
    ```bash
-   cd app
+   cd Human-kinetic-detection/app
    ```
 
 3. Install Streamlit with the `-q` tag:
