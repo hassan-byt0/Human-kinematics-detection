@@ -80,12 +80,12 @@ models = {
 
 # Model paths
 model_paths = {
-    "Body Gesture Classifier": "/content/mode1pf.pth",
-    "Gesture Classifier": "/content/mode2pf.pth",
-    "Finger Classifier": "/content/mode3pf.pth",
-    "Light Detection": "/content/mode4pf.pth",
-    "Pulse Detection": "/content/mode5pf.pth",
-    "Load Prediction": "/content/mode6pf.pth"
+    "Body Gesture Classifier": "mode1pf.pth",
+    "Gesture Classifier": "mode2pf.pth",
+    "Finger Classifier": "mode3pf.pth",
+    "Light Detection": "mode4pf.pth",
+    "Pulse Detection": "mode5pf.pth",
+    "Load Prediction": "mode6pf.pth"
 }
 
 # Sidebar mode selection
